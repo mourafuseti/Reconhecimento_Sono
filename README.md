@@ -17,6 +17,8 @@ Este projeto é um sistema para detecção de sonolência em tempo real. Utiliza
 
 -----
 
+[![Teste Codigo Pyton reconhecimento facial de sono](https://img.youtube.com/vi/qSFmMgFxDK8/0.jpg)](https://www.youtube.com/watch?v=qSFmMgFxDK8)
+
 ## 🚀 Instalação e Execução
 
 As instruções a seguir pressupõem que você está na pasta raiz do projeto (`driver_drowsiness_ai/`).
