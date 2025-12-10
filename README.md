@@ -17,6 +17,7 @@ Este projeto é um sistema para detecção de sonolência em tempo real. Utiliza
 
 -----
 
+
 [![Teste Codigo Pyton reconhecimento facial de sono](https://img.youtube.com/vi/qSFmMgFxDK8/0.jpg)](https://www.youtube.com/watch?v=qSFmMgFxDK8)
 
 ## 🚀 Instalação e Execução
@@ -105,3 +106,17 @@ python3 main.py
   * **`FileNotFoundError: 'model/best.pt'`**: Certifique-se de que o arquivo `best.pt` está dentro da pasta `src/model/`.
   * **`pygame.error: No file 'assets/alarm.wav' found`**: Certifique-se de que o arquivo `alarm.wav` está dentro da pasta `src/assets/`.
   * **`pygame.error: ALSA: Couldn't open audio device: Device or resource busy`**: Algum outro programa (navegador, player de música, etc.) está usando o seu dispositivo de áudio. Feche o programa ou finalize os processos como `pipewire` ou `pulseaudio` e tente novamente.
+
+  * -----
+## ☕ Apoie o Projeto
+
+Se você gostou do projeto e deseja apoiar o desenvolvimento contínuo, considere fazer uma pequena doação. Seu apoio é muito apreciado!
+
+### Via QR Code
+Escaneie o código abaixo com a câmera do seu celular:
+
+[![Imagem de Doação](doacao.jpg)](https://link-da-sua-doacao-aqui)
+
+### Ou via Chave Pix
+**Chave Pix:** [ 19506617848 ]
+-----
